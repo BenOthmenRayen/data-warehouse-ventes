@@ -1,0 +1,21 @@
+Clef_Produit,Code_Produit,Description_Produit,Marque_Produit,Sous_Sous_Categorie,Sous_Categorie,Categorie_Produit,Rayon,Prix_Produit_Recommande,Rangee,Secteur,Etagere
+1,PROD001,Lait Demi-Ecreme Vitalait 1L,Vitalait,Lait UHT,Lait,Produits Laitiers,Frais,2.50,A1,Frais,Etagere1
+2,PROD002,Pain Blanc 400g,Boulangerie Maison,Pain Blanc,Pain,Boulangerie,Boulangerie,0.80,B1,Boulangerie,Comptoir
+3,PROD003,Yaourt Nature Danone x8,Danone,Yaourt Nature,Yaourt,Produits Laitiers,Frais,4.20,A1,Frais,Etagere2
+4,PROD004,Huile Olive Extra Vierge 1L,Yadis,Huile Olive,Huiles,Epicerie,Epicerie,12.50,C3,Epicerie,Etagere5
+5,PROD005,Pates Spaghetti 500g,Panzani,Pates Longues,Pates,Epicerie,Epicerie,2.80,C2,Epicerie,Etagere3
+6,PROD006,Tomates Fraiches (kg),Local,Tomates,Legumes,Fruits et Legumes,F&L,1.50,D1,F&L,Presentoir
+7,PROD007,Pommes Golden (kg),Import,Pommes,Fruits,Fruits et Legumes,F&L,3.20,D2,F&L,Presentoir
+8,PROD008,Eau Minerale Safia 1.5L x6,Safia,Eau Plate,Eaux,Boissons,Boissons,5.40,E1,Boissons,Etagere1
+9,PROD009,Coca-Cola 1.5L,Coca-Cola,Sodas,Boissons Gazeuses,Boissons,Boissons,3.50,E2,Boissons,Etagere2
+10,PROD010,Poulet Fermier Entier (kg),Ferme Ben Arous,Poulet Entier,Volailles,Viandes,Boucherie,8.50,F1,Boucherie,Vitrine
+11,PROD011,Fromage Gouda 200g,President,Fromage a Pate Dure,Fromages,Produits Laitiers,Frais,6.80,A2,Frais,Etagere3
+12,PROD012,Riz Basmati 1kg,Tria,Riz Parfume,Riz,Epicerie,Epicerie,4.50,C1,Epicerie,Etagere2
+13,PROD013,Jus Orange Tropicana 1L,Tropicana,Jus Agrumes,Jus,Boissons,Boissons,4.80,E3,Boissons,Etagere3
+14,PROD014,Thon a Huile 160g,Mabrouka,Conserves Poisson,Conserves,Epicerie,Epicerie,3.20,C4,Epicerie,Etagere6
+15,PROD015,Chocolat au Lait 100g,Milka,Tablettes Chocolat,Chocolat,Confiserie,Confiserie,2.90,G1,Confiserie,Etagere1
+16,PROD016,Beurre Doux 250g,Elle & Vire,Beurre,Produits Laitiers Frais,Produits Laitiers,Frais,5.20,A1,Frais,Etagere1
+17,PROD017,Cafe Moulu 250g,Boncolac,Cafe Moulu,Cafe,Epicerie,Epicerie,8.90,C5,Epicerie,Etagere7
+18,PROD018,The Vert Menthe 25 sachets,Lipton,The Vert,The,Epicerie,Epicerie,3.80,C5,Epicerie,Etagere7
+19,PROD019,Sucre Blanc 1kg,Beghin Say,Sucre Blanc,Sucre,Epicerie,Epicerie,2.20,C2,Epicerie,Etagere3
+20,PROD020,Farine Type 55 1kg,Francine,Farine Blanche,Farine,Epicerie,Epicerie,1.90,C2,Epicerie,Etagere3

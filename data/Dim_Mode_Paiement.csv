@@ -1,0 +1,8 @@
+Clef_Mode_Paiement,Code_Paiement,Description,Type_Paiement
+1,CB,Carte Bancaire,Electronique
+2,ESP,Especes,Liquide
+3,CHQ,Cheque,Papier
+4,VIR,Virement,Electronique
+5,MBWL,Mobile Wallet,Mobile
+6,CTCT,Sans Contact,Electronique
+7,CBFID,Carte Fidelite,Electronique

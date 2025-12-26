@@ -1,0 +1,16 @@
+Clef_Client,Nom_Client,Prenom_Client,Numero_Carte_Client,Code_Postal_Client,Ville_Client,Adresse_Client,Date_Carte_Fidelite,Date_Naissance,Sexe_Client,Age,Statut_Marital,Nombre_Enfants,Revenus_Foyer
+1,Ben Ahmed,Fatma,FCARD001,1000,Tunis,12 Rue de la Republique,2022-01-15,1985-03-20,F,39,Mariee,2,3500.00
+2,Trabelsi,Mohamed,FCARD002,1053,Tunis,45 Avenue Habib Bourguiba,2021-06-10,1978-11-05,M,46,Marie,3,4200.00
+3,Gharbi,Amel,FCARD003,3000,Sfax,78 Rue Mongi Slim,2023-02-20,1992-07-15,F,32,Celibataire,0,2800.00
+4,Jebali,Karim,FCARD004,4000,Sousse,23 Boulevard du 7 Novembre,2022-09-05,1988-04-30,M,36,Marie,1,3800.00
+5,Nasri,Leila,FCARD005,8000,Nabeul,56 Avenue Farhat Hached,2023-05-12,1995-09-18,F,29,Celibataire,0,2500.00
+6,Hamdi,Sami,FCARD006,1000,Tunis,89 Rue de Palestine,2021-03-25,1980-12-10,M,44,Divorce,2,4500.00
+7,Messaoudi,Salma,FCARD007,2000,Ariana,34 Rue Habib Thameur,2022-11-30,1990-06-25,F,34,Mariee,2,3200.00
+8,Khelifi,Riadh,,4000,Sousse,12 Avenue de la Corniche,,1987-02-14,M,37,Marie,3,3900.00
+9,Bouazizi,Nadia,FCARD009,3000,Sfax,67 Rue Ali Bach Hamba,2023-08-15,1993-10-08,F,31,Celibataire,0,2700.00
+10,Sassi,Youssef,FCARD010,5000,Monastir,91 Avenue Habib Bourguiba,2022-04-18,1982-05-22,M,42,Marie,2,4100.00
+11,Mejri,Asma,FCARD011,1000,Tunis,15 Rue de Marseille,2023-01-10,1991-08-12,F,33,Mariee,1,3300.00
+12,Ghariani,Hedi,FCARD012,3000,Sfax,23 Avenue de la Liberte,2022-07-22,1975-04-18,M,49,Marie,4,5200.00
+13,Nciri,Rim,FCARD013,4000,Sousse,67 Rue Hedi Chaker,2023-03-05,1994-12-03,F,30,Celibataire,0,2900.00
+14,Bouzid,Tarek,,1053,Tunis,89 Avenue Mohamed V,,1986-09-27,M,38,Marie,2,3700.00
+15,Amri,Sonia,FCARD015,8000,Nabeul,12 Rue des Jasmins,2022-05-18,1989-01-14,F,35,Mariee,3,4000.00

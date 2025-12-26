@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM Fait_Vente_Produits;

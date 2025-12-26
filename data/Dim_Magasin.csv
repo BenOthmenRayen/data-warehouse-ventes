@@ -1,0 +1,6 @@
+Clef_Magasin,Nom_Magasin,Numero_Magasin,Rue,Ville,Departement,Pays,Code_Postal,Directeur,Zone,Zone_Precedente,Region,Region_Precedente,Date_Premiere_Ouverture,Date_Derniere_Renovation
+1,Carrefour Tunis Centre,MAG001,Avenue Habib Bourguiba,Tunis,Tunis,Tunisie,1000,Ahmed Ben Ali,Zone Nord,Zone Centre,Grand Tunis,Grand Tunis,2018-03-15,2023-06-01
+2,Monoprix Lac,MAG002,Rue du Lac Victoria,Tunis,Tunis,Tunisie,1053,Samia Trabelsi,Zone Nord,Zone Nord,Grand Tunis,Grand Tunis,2015-09-20,2022-11-10
+3,Geant Sfax,MAG003,Route de Tunis,Sfax,Sfax,Tunisie,3000,Mohamed Jebali,Zone Sud,Zone Sud,Sfax,Sfax,2019-05-10,2024-02-15
+4,Carrefour Sousse,MAG004,Avenue Leopold Sedar Senghor,Sousse,Sousse,Tunisie,4000,Leila Gharbi,Zone Centre,Zone Est,Sahel,Sahel,2017-11-05,2023-09-20
+5,Aziza Nabeul,MAG005,Avenue Habib Thameur,Nabeul,Nabeul,Tunisie,8000,Nizar Hamdi,Zone Est,Zone Est,Cap Bon,Cap Bon,2020-02-14,2024-07-01
